@@ -7,7 +7,6 @@ I'm a cybersecurity enthusiast with hands-on experience in network troubleshooti
 With three years of internship experience and over two years studying cybersecurity, I am building expertise in network security, penetration testing, and security governance. Despite a non-traditional background, I have gained hands-on experience across security operations, risk management, and incident response. Currently pursuing my Security+ certification, I am eager to explore all areas of cybersecurity, from governance to red team/blue team operations, demonstrating my commitment to continuous growth in the field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -33,5 +32,4 @@ With three years of internship experience and over two years studying cybersecur
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Kali Linux Virtual Box
