@@ -8,14 +8,11 @@ With three years of internship experience and over two years studying cybersecur
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                      | Associated Project |
+|--------------------------------------------|--------------------|
+| Web Application Security Testing           | PortSwigger Logic Flaw Lab |
+| Client-Side Security Assessment            | PortSwigger Logic Flaw Lab |
+| Packet Capture and Analysis                | Wireshark Traffic Analysis |
 
 ## Tools
 
@@ -25,6 +22,11 @@ With three years of internship experience and over two years studying cybersecur
     
 </div>
 
+### Web Application Security  
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
@@ -32,4 +34,4 @@ With three years of internship experience and over two years studying cybersecur
 </div>
 
 ## Projects
-- Kali Linux Virtual Box
+- Kali Linux Virtual Box Installation
