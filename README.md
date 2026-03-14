@@ -1,7 +1,7 @@
 # Hello, I'm Kasyah Sydnor
 <a href="https://www.linkedin.com/in/kasyahsydnor/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m Kasyah Sydnor, a security engineer with hands‑on experience across SOC operations, incident response, network troubleshooting, and secure system analysis. I’ve supported real investigations, triaged SIEM alerts, analyzed audit logs, and built tools that strengthen visibility and reduce risk. My background spans enterprise environments like Hitachi Digital Services, Cisco Meraki, and Texas State University, where I developed a strong foundation in detection logic, documentation, and structured analysis.
+I’m a recent Texas State University graduate and a security engineer with hands-on experience in SOC operations, incident response, network troubleshooting, and secure system analysis. I’ve supported real investigations by triaging SIEM alerts, analyzing audit logs, and building tools that improve visibility and reduce risk. My experience across Hitachi Digital Services, Cisco Meraki, and Texas State University has given me a strong foundation in detection logic, structured analysis, and clear technical documentation.
 
 ## Objective
 I use GitHub to showcase practical, security‑focused projects—log analysis tools, monitoring solutions, and small automations—that reflect how I think during investigations and how I approach problem‑solving in real environments. My goal is to continue building projects that demonstrate operational security skills and support my path toward roles in SOC engineering, vulnerability management, and security automation.
